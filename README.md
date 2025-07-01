@@ -27,6 +27,4 @@ To analyze job categories, skills, and sectors most vulnerable to AI replacement
 
 ## 📊 Dashboard Preview
 
-
-```markdown
-![AI Job Impact Dashboard](AI JOB IMPACT.png)
+![AI JOB IMPACT ANALYSIS](https://github.com/omkar-247/Ai-job-impact-analysis/blob/main/AI%20JOB%20IMPACT.png)
